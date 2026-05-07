@@ -319,7 +319,7 @@ p {
 
 .hero-photo-card {
   position: absolute;
-  inset: 6% 0 0;
+  inset: 6% 0 0 auto;
   overflow: hidden;
   margin: 0;
   border: 1px solid rgba(185, 138, 94, 0.16);
