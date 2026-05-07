@@ -208,6 +208,8 @@ textarea {
 
 .hero-copy {
   max-width: 670px;
+  position: relative;
+  z-index: 10;
 }
 
 .eyebrow {
@@ -324,6 +326,7 @@ p {
   margin: 0;
   border: 1px solid rgba(185, 138, 94, 0.16);
   border-radius: 38px;
+  opacity: 0.6;
   background: var(--paper);
   box-shadow: var(--shadow);
 }
