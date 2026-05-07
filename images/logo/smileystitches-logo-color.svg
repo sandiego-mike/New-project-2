@@ -1,0 +1,24 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SmileyStitches full color logo</title>
+  <desc id="desc">A smiling tooth icon with stitched details beside the SmileyStitches wordmark in soft pastel colors.</desc>
+  <rect width="1200" height="500" rx="58" fill="#FFF8E9"/>
+  <rect x="28" y="28" width="1144" height="444" rx="44" stroke="#B98A5E" stroke-width="10"/>
+  <rect x="58" y="58" width="1084" height="384" rx="32" stroke="#B98A5E" stroke-width="8" stroke-linecap="round" stroke-dasharray="30 26"/>
+
+  <g transform="translate(118 88)">
+    <path d="M133 16C102 10 64 12 40 38C6 75 14 138 29 188C40 224 39 270 65 294C82 310 113 305 127 284C141 263 137 219 157 218C177 217 173 262 188 284C203 306 234 309 251 293C278 268 275 221 286 186C302 134 310 76 275 39C250 13 211 10 179 17C163 21 151 33 133 16Z" fill="#FFFEF7" stroke="#6F5238" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M116 42C134 56 162 59 184 41" stroke="#6F5238" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="103" cy="137" r="14" fill="#6F5238"/>
+    <circle cx="212" cy="137" r="14" fill="#6F5238"/>
+    <circle cx="78" cy="166" r="20" fill="#FFC6AD"/>
+    <circle cx="235" cy="166" r="20" fill="#FFC6AD"/>
+    <path d="M132 166C146 190 172 191 187 166" stroke="#6F5238" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(438 122)">
+    <text x="0" y="112" fill="#88BED0" font-family="Nunito, Avenir Rounded, Arial Rounded MT Bold, Arial, sans-serif" font-size="114" font-weight="900" letter-spacing="-2">Smiley</text>
+    <text x="0" y="230" fill="#6F5238" font-family="Nunito, Avenir Rounded, Arial Rounded MT Bold, Arial, sans-serif" font-size="114" font-weight="900" letter-spacing="-2">Stitches</text>
+    <path d="M9 258H561" stroke="#FFC6AD" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 22"/>
+    <text x="0" y="304" fill="#B98A5E" font-family="Nunito, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">@_SMILEYSTITCHES_</text>
+  </g>
+</svg>

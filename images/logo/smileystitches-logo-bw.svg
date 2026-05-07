@@ -1,0 +1,22 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SmileyStitches black and white logo</title>
+  <desc id="desc">A one-color smiling tooth logo with stitched details and SmileyStitches wordmark.</desc>
+  <rect width="1200" height="500" rx="58" fill="#FFFFFF"/>
+  <rect x="28" y="28" width="1144" height="444" rx="44" stroke="#111111" stroke-width="10"/>
+  <rect x="58" y="58" width="1084" height="384" rx="32" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-dasharray="30 26"/>
+
+  <g transform="translate(118 88)" stroke="#111111">
+    <path d="M133 16C102 10 64 12 40 38C6 75 14 138 29 188C40 224 39 270 65 294C82 310 113 305 127 284C141 263 137 219 157 218C177 217 173 262 188 284C203 306 234 309 251 293C278 268 275 221 286 186C302 134 310 76 275 39C250 13 211 10 179 17C163 21 151 33 133 16Z" fill="#FFFFFF" stroke-width="12" stroke-linejoin="round"/>
+    <path d="M116 42C134 56 162 59 184 41" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="103" cy="137" r="14" fill="#111111" stroke="none"/>
+    <circle cx="212" cy="137" r="14" fill="#111111" stroke="none"/>
+    <path d="M132 166C146 190 172 191 187 166" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(438 92)" fill="#111111">
+    <text x="0" y="112" font-family="Nunito, Avenir Rounded, Arial Rounded MT Bold, Arial, sans-serif" font-size="114" font-weight="900" letter-spacing="-2">Smiley</text>
+    <text x="0" y="230" font-family="Nunito, Avenir Rounded, Arial Rounded MT Bold, Arial, sans-serif" font-size="114" font-weight="900" letter-spacing="-2">Stitches</text>
+    <path d="M9 258H561" stroke="#111111" stroke-width="8" stroke-linecap="round" stroke-dasharray="1 22"/>
+    <text x="0" y="304" font-family="Nunito, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="4">@_SMILEYSTITCHES_</text>
+  </g>
+</svg>

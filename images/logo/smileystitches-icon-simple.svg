@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SmileyStitches simple tooth icon</title>
+  <desc id="desc">A simple smiling tooth icon with soft cheeks.</desc>
+  <path d="M116 32C89 27 57 30 37 52C10 82 17 132 28 164C37 192 35 216 55 232C71 244 96 241 108 222C119 204 115 171 128 171C141 171 137 204 149 222C161 241 186 244 202 232C222 216 219 192 228 164C240 132 247 82 219 52C199 30 166 27 140 32C130 34 124 41 116 32Z" fill="#FFFEF7" stroke="#6F5238" stroke-width="11" stroke-linejoin="round"/>
+  <path d="M96 56C110 66 130 68 146 57" stroke="#6F5238" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="91" cy="124" r="9" fill="#6F5238"/>
+  <circle cx="164" cy="124" r="9" fill="#6F5238"/>
+  <circle cx="70" cy="145" r="13" fill="#FFC6AD"/>
+  <circle cx="185" cy="145" r="13" fill="#FFC6AD"/>
+  <path d="M107 147C119 166 139 166 151 147" stroke="#6F5238" stroke-width="8" stroke-linecap="round"/>
+</svg>

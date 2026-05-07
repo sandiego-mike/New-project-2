@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">SmileyStitches black and white tooth icon</title>
+  <desc id="desc">A one-color smiling tooth icon.</desc>
+  <rect width="512" height="512" rx="112" fill="#FFFFFF"/>
+  <path d="M236 82C187 72 126 76 90 116C39 172 52 263 74 338C91 391 89 430 124 457C151 478 196 471 217 438C237 406 231 344 256 344C281 344 275 407 296 439C318 472 363 477 389 455C424 426 422 389 438 337C462 260 474 174 421 117C382 76 322 72 273 83C251 88 240 96 236 82Z" fill="#FFFFFF" stroke="#111111" stroke-width="22" stroke-linejoin="round"/>
+  <path d="M197 124C225 144 263 148 296 125" stroke="#111111" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="198" cy="251" r="20" fill="#111111"/>
+  <circle cx="314" cy="251" r="20" fill="#111111"/>
+  <path d="M220 291C242 325 281 325 303 291" stroke="#111111" stroke-width="17" stroke-linecap="round"/>
+</svg>
